@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Aug 2024 12:50:30 at https://gemini.google.com/app/7b3bc6260f6d9034 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gemini.google.com/app/7b3bc6260f6d9034 -O1 "E:\My Web Sites\Gemini" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:58	Error: 	"Not Found" (404) at link www.gstatic.com/ (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:51:09	Error: 	"Bad Request" (400) at link https://lh3.googleusercontent.com/ (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:51:10	Error: 	"Not Found" (404) at link https://waa-pa.clients6.google.com/ (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:51:10	Error: 	"Not Found" (404) at link https://ogads-pa.clients6.google.com/ (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:51:11	Error: 	"Not Found" (404) at link https://www.googletagmanager.com/ (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:51:14	Warning: 	Found for https://gemini.google.com/
+12:51:14	Warning: 	File has moved from https://gemini.google.com/ to https://gemini.google.com/?hl=en
+12:51:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.googletagmanager.com/gtm.js?id=GTM-KKRLL9S
+12:52:08	Error: 	"Not Found" (404) at link https://gemini.google.com/gci_91f30755d6a6b787dcc2a4062e6e9824.js (from https://gemini.google.com/app/7b3bc6260f6d9034?hl=en)
+12:52:08	Warning: 	HTML file (662 bytes) retransferred due to lack of cache: https://gemini.google.com/
+12:52:09	Warning: 	Found for https://gemini.google.com/
+12:52:09	Warning: 	File has moved from https://gemini.google.com/ to https://gemini.google.com/?hl=en
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 39 seconds : 89 links scanned, 87 files written (13593008 bytes overall) [6802776 bytes received at 68714 bytes/sec], 2221030 bytes transferred using HTTP compression in 33 files, ratio 27%
+(6 errors, 6 warnings, 0 messages)
